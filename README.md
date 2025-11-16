@@ -1,28 +1,5 @@
 ## Hi there 👋
 
-<!--
-**SolveEve/SolveEve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><h1 align="center">Hi, I'm Rejoyan Islam 👋</h1>
-
-<!-- <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=200&random=false&lines=Quick%20Learner;Friendly;Dedicated&width=160"></a>
-</p> -->
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-rejoyan-islam" &label=Profile%20views&color=0e75b6&style=flat" alt="Solve Eve" /> </p> -->
-
-##
-
 👋 Hello there! I'm passionate full-stack & AI powered web developer with a diverse skill set that spans across various technologies. With a strong foundation in JavaScript and Python, I bring a wealth of experience in building robust and scalable web applications.
 
 🌐 As a seasoned developer, I have expertise in both SQL and NoSQL databases, ensuring that I can design efficient and effective data solutions for any project. Whether it's crafting intricate database queries or optimizing data storage, I thrive in creating seamless backend experiences.
