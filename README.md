@@ -1,4 +1,4 @@
-## Hi there 👋
+Welcome!
 
 👋 Hello there! I'm passionate full-stack & AI powered web developer with a diverse skill set that spans across various technologies. With a strong foundation in JavaScript and Python, I bring a wealth of experience in building robust and scalable web applications.
 
