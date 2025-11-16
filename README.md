@@ -45,8 +45,197 @@ I believe in **clarity, scalability, and long-term impact — not just code, but
 
 ## ⚡️ My Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,express,aws,postgresql,supabase,docker,vercel,figma" />
+## Skills 🚀 
+
+<p align="left">
+  <!-- html logo  -->
+  <a href="https://www.w3.org/html/">
+    <img src="https://skillicons.dev/icons?i=html" alt="html" title="HTML" />
+  </a>
+  &nbsp;
+  <!-- css logo  -->
+  <a href="https://www.w3.org/Style/CSS/">
+    <img src="https://skillicons.dev/icons?i=css" alt="css" title="CSS" />
+  </a>
+  &nbsp;
+  <!-- sass logo  -->
+  <a href="https://sass-lang.com/">
+    <img src="https://skillicons.dev/icons?i=sass" alt="sass" title="SASS" />
+  </a>
+  &nbsp;
+  <!-- bootstrap logo -->
+  <a href="https://getbootstrap.com/">
+    <img
+      src="https://skillicons.dev/icons?i=bootstrap"
+      alt="bootstrap"
+      title="BootStrap"
+    />
+  </a>
+  &nbsp;
+  <!-- tailwind css logo -->
+  <a href="https://tailwindcss.com/">
+    <img
+      src="https://skillicons.dev/icons?i=tailwind"
+      alt="tailwind css"
+      title="Tailwind CSS"
+    />
+  </a>
+  &nbsp;
+  <!-- material ui logo -->
+  <a href="https://mui.com/">
+    <img
+      src="https://skillicons.dev/icons?i=materialui"
+      alt="material ui"
+      title="Material UI"
+    />
+  </a>
+  &nbsp;
+  <!-- daisy ui logo -->
+  <a href="https://daisyui.com/">
+    <img
+      src="./images/daisyui.png"
+      width="50px"
+      alt="daisyui"
+      title="DaisyUI"
+    />
+  </a>
+  &nbsp;
+  <!-- javascript logo -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="js" title="JavaScript" />
+  </a>
+  &nbsp;
+  <!-- typescript logo -->
+  <a href="https://www.typescriptlang.org/">
+    <img
+      src="https://skillicons.dev/icons?i=ts"
+      alt="redux"
+      title="TypeScript"
+    />
+  </a>
+  &nbsp;
+  <!-- node js logo -->
+  <a href="https://nodejs.org/en/"
+    ><img
+      src="https://skillicons.dev/icons?i=nodejs"
+      alt="node js"
+      title="Node JS"
+    />
+  </a>
+  &nbsp;
+  <!-- react js logo  -->
+  <a href="https://react.dev/"
+    ><img
+      src="https://skillicons.dev/icons?i=react"
+      alt="react js"
+      title="React JS"
+    />
+  </a>
+  &nbsp;
+  <!-- next js logo  -->
+  <a href="https://nextjs.org/">
+    <img
+      src="https://skillicons.dev/icons?i=nextjs"
+      alt="nextJs"
+      title="NextJS"
+  /></a>
+  &nbsp;
+  <!-- redux logo -->
+  <a href="https://redux.js.org/">
+    <img src="https://skillicons.dev/icons?i=redux" alt="redux" title="Redux"
+  /></a>
+  &nbsp;
+  <!-- firebase logo -->
+  <a href="https://firebase.google.com/"
+    ><img
+      src="https://skillicons.dev/icons?i=firebase"
+      alt="firebase"
+      title="Firebase"
+    />
+  </a>
+  &nbsp;
+  <!-- mongodb logo -->
+  <a href="https://www.mongodb.com/"
+    ><img
+      src="https://skillicons.dev/icons?i=mongodb"
+      alt="mongodb"
+      title="MongoDB"
+    />
+  </a>
+  &nbsp;
+  <!-- mysql logo -->
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL"
+  /></a>
+  &nbsp;
+  <!-- prisma orm logo -->
+  <a href="https://www.prisma.io/">
+    <img
+      src="https://skillicons.dev/icons?i=prisma"
+      alt="primsa"
+      title="Prisma"
+  /></a>
+  &nbsp;
+  <!-- sequelize logo -->
+  <a href="https://sequelize.org/">
+    <img
+      src="https://skillicons.dev/icons?i=sequelize"
+      alt="sequelize"
+      title="Sequelize"
+  /></a>
+  &nbsp;
+  <!-- socket.io logo -->
+  <a href="https://socket.io/">
+    <img
+      src="./images/socketIo.png"
+      width="50px"
+      alt="socketio"
+      title="SocketIO"
+  /></a>
+  &nbsp;
+  <!-- webRTC logo -->
+  <a href="https://webrtc.org/">
+    <img src="./images/webrtc.png" width="50px" alt="webrtc" title="WebRTC"
+  /></a>
+  &nbsp;
+  <!-- python logo -->
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" alt="redux" title="Python"
+  /></a>
+  &nbsp;
+  <!-- django logo -->
+  <a href="https://www.djangoproject.com/">
+    <img
+      src="https://skillicons.dev/icons?i=django"
+      alt="django"
+      title="Django"
+  /></a>
+  &nbsp;
+  <!-- flask logo -->
+  <a href="https://www.docker.com/">
+    <img
+      src="https://skillicons.dev/icons?i=docker"
+      alt="docker"
+      title="Docker"
+  /></a>
+  &nbsp;
+  <!-- docker logo  -->
+  <a href="https://wordpress.org">
+    <img
+      src="https://skillicons.dev/icons?i=wordpress"
+      alt="wordpress"
+      title="WordPress"
+  /></a>
+  &nbsp;
+  <!-- elementor logo  -->
+  <a href="https://elementor.com/">
+    <img
+      src="./images/elementor.png"
+      width="50px"
+      alt="elementor"
+      title="Elementor"
+  /></a>
+  &nbsp;
 </p>
 
 <table>
