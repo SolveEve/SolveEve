@@ -1,14 +1,10 @@
 <!-- Profile README for a Full Stack & AI Developer — by @SolveEve -->
 
-<p align="right">
-  <img width="390" src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=780&q=80" 
-    alt="Colorful Digital AI Banner" 
-    style="border-radius:16px;box-shadow:0 4px 30px rgba(0,0,0,0.1)">
-</p>
+<img align="right" width="380" src="https://raw.githubusercontent.com/SolveEve/SolveEve/main/banner-ai-developer.png" alt="SolveEve AI Full Stack Banner">
 
 <h1 align="left">
   <img src="https://emoji.gg/assets/emoji/7333-party-parrot.gif" width="32px" /> 
-  Hi, I'm <span style="color:#7028e4;">SolveEve</span>
+  Hi, I'm SolveEve
 </h1>
 <p align="left">
   <b>Full Stack & AI Developer | Next.js • React • Node.js • Python • RAG | Cloud Architect</b>
@@ -20,14 +16,14 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff72c0,79f1fc&height=170&section=header&text=FullStack%20AI%20Developer&fontSize=42&fontColor=f6fff8&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b993d6,100:8ca6db&height=150&section=header&text=Full%20Stack%20AI%20Developer&fontSize=35&fontColor=ffffff" alt="header"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/SolveEve">
     <img src="https://komarev.com/ghpvc/?username=SolveEve&style=flat-square&color=ffb700" alt="SolveEve" />
   </a>
-  <img src="https://img.shields.io/badge/Years%20of%20Exp-7+-06d6a0?style=flat-square">
+  <img src="https://img.shields.io/badge/Years%20of%20Devotion-2018~2025-blueviolet?style=flat-square">
   <img src="https://img.shields.io/badge/AI%20Specialist-%F0%9F%A4%96-purple?style=flat-square">
   <img src="https://img.shields.io/badge/Loves%20Next.js-000?style=flat-square&logo=next.js">
   <img src="https://img.shields.io/badge/Cloud%20Native-%F0%9F%9A%80-a6ffcb?style=flat-square">
@@ -42,8 +38,8 @@
 Since **2018**, I've been building at the intersection of <b>artificial intelligence, web engineering</b>, and <b>cloud-native systems</b>.  
 I blend deep academic foundation with hands-on expertise to turn complex ideas into <em>measurable, scalable, and beautiful digital products</em>.
 
-- 🛠 **AI-driven platforms** – RAG, LLM, NLP, chatbots, automation
-- 🌐 **Modern web apps** – Next.js, React, Node.js, Supabase, Python
+- 🛠 **AI-driven platforms** – RAG, LLM, NLP, chatbots, automation  
+- 🌐 **Modern web apps** – Next.js, React, Node.js, Supabase, Python  
 - ☁️ **Cloud architecture** – AWS, Vercel, Serverless, PostgreSQL
 
 I believe in clarity, scalability, creativity, and long-term impact—not just code, but results that matter.
@@ -107,23 +103,23 @@ Deliver solutions that are **secure, creative, and scalable**.
 
 ---
 
-## 📊 Activity & Stats
+## 📊 Activity & Devotion Since 2018
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SolveEve&show_icons=true&theme=radical&hide_rank=false&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SolveEve&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SolveEve&theme=react-dark&custom_title=SolveEve's%20Devotion%20and%20Contribution%20since%202018&area=true&hide_border=true&line=ff6a00&color=f03e99&bg_color=1F222E"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SolveEve&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SolveEve&show_icons=true&theme=radical&hide_rank=false&hide_border=true&count_private=true&include_all_commits=true&custom_title=SolveEve's%20GitHub%20Stats%20(2018~Now)" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SolveEve&theme=radical&hide_border=true&date_format=%5BYEAR%5D-%m-%d&fire=ff9a00" height="165" />
 </p>
 
 ---
 
 ## 🌱 Currently
 
-- Exploring **RAG** & multi-modal AI
-- Building MVPs for SaaS & startups
-- Collaborating & mentoring globally
+- Exploring **RAG** & multi-modal AI  
+- Building MVPs for SaaS & startups  
+- Collaborating & mentoring globally  
 
 ---
 
@@ -136,7 +132,7 @@ Deliver solutions that are **secure, creative, and scalable**.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff72c0,79f1fc&height=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b993d6,100:8ca6db&height=120&section=footer"/>
 </p>
 
 <p align="center">
