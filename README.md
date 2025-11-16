@@ -1,265 +1,130 @@
-Welcome!
+<!-- Profile README for a Full Stack & AI Developer — by @SolveEve -->
 
-👋 Hello there! I'm passionate full-stack & AI powered web developer with a diverse skill set that spans across various technologies. With a strong foundation in JavaScript and Python, I bring a wealth of experience in building robust and scalable web applications.
+<img align="right" width="380" src="https://raw.githubusercontent.com/SolveEve/SolveEve/main/banner-ai-developer.png" alt="SolveEve AI Full Stack Banner">
 
-🌐 As a seasoned developer, I have expertise in both SQL and NoSQL databases, ensuring that I can design efficient and effective data solutions for any project. Whether it's crafting intricate database queries or optimizing data storage, I thrive in creating seamless backend experiences.
-
-🚀 On the frontend, I specialize in React.js, delivering modern and user-friendly interfaces. My commitment to creating engaging and responsive user experiences is complemented by a solid understanding of Node.js for server-side development.
-
-💡 Additionally, I am well-versed in content management systems like WordPress, allowing me to navigate the world of dynamic content creation effortlessly. My proficiency extends to Django, a powerful Python web framework, enabling me to build robust and maintainable server-side applications.
-
-🌐 Continuously learning and adapting to emerging technologies, I am dedicated to staying at the forefront of web development trends. I am excited about the potential of technology to solve problems and enhance user experiences.
-
-## Skills 🚀 
-
+<h1 align="left">
+  <img src="https://emoji.gg/assets/emoji/7333-party-parrot.gif" width="32px" /> 
+  Hi, I'm SolveEve
+</h1>
 <p align="left">
-  <!-- html logo  -->
-  <a href="https://www.w3.org/html/">
-    <img src="https://skillicons.dev/icons?i=html" alt="html" title="HTML" />
-  </a>
-  &nbsp;
-  <!-- css logo  -->
-  <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://skillicons.dev/icons?i=css" alt="css" title="CSS" />
-  </a>
-  &nbsp;
-  <!-- sass logo  -->
-  <a href="https://sass-lang.com/">
-    <img src="https://skillicons.dev/icons?i=sass" alt="sass" title="SASS" />
-  </a>
-  &nbsp;
-  <!-- bootstrap logo -->
-  <a href="https://getbootstrap.com/">
-    <img
-      src="https://skillicons.dev/icons?i=bootstrap"
-      alt="bootstrap"
-      title="BootStrap"
-    />
-  </a>
-  &nbsp;
-  <!-- tailwind css logo -->
-  <a href="https://tailwindcss.com/">
-    <img
-      src="https://skillicons.dev/icons?i=tailwind"
-      alt="tailwind css"
-      title="Tailwind CSS"
-    />
-  </a>
-  &nbsp;
-  <!-- material ui logo -->
-  <a href="https://mui.com/">
-    <img
-      src="https://skillicons.dev/icons?i=materialui"
-      alt="material ui"
-      title="Material UI"
-    />
-  </a>
-  &nbsp;
-  <!-- daisy ui logo -->
-  <a href="https://daisyui.com/">
-    <img
-      src="./images/daisyui.png"
-      width="50px"
-      alt="daisyui"
-      title="DaisyUI"
-    />
-  </a>
-  &nbsp;
-  <!-- javascript logo -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" alt="js" title="JavaScript" />
-  </a>
-  &nbsp;
-  <!-- typescript logo -->
-  <a href="https://www.typescriptlang.org/">
-    <img
-      src="https://skillicons.dev/icons?i=ts"
-      alt="redux"
-      title="TypeScript"
-    />
-  </a>
-  &nbsp;
-  <!-- node js logo -->
-  <a href="https://nodejs.org/en/"
-    ><img
-      src="https://skillicons.dev/icons?i=nodejs"
-      alt="node js"
-      title="Node JS"
-    />
-  </a>
-  &nbsp;
-  <!-- react js logo  -->
-  <a href="https://react.dev/"
-    ><img
-      src="https://skillicons.dev/icons?i=react"
-      alt="react js"
-      title="React JS"
-    />
-  </a>
-  &nbsp;
-  <!-- next js logo  -->
-  <a href="https://nextjs.org/">
-    <img
-      src="https://skillicons.dev/icons?i=nextjs"
-      alt="nextJs"
-      title="NextJS"
-  /></a>
-  &nbsp;
-  <!-- redux logo -->
-  <a href="https://redux.js.org/">
-    <img src="https://skillicons.dev/icons?i=redux" alt="redux" title="Redux"
-  /></a>
-  &nbsp;
-  <!-- firebase logo -->
-  <a href="https://firebase.google.com/"
-    ><img
-      src="https://skillicons.dev/icons?i=firebase"
-      alt="firebase"
-      title="Firebase"
-    />
-  </a>
-  &nbsp;
-  <!-- mongodb logo -->
-  <a href="https://www.mongodb.com/"
-    ><img
-      src="https://skillicons.dev/icons?i=mongodb"
-      alt="mongodb"
-      title="MongoDB"
-    />
-  </a>
-  &nbsp;
-  <!-- mysql logo -->
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL"
-  /></a>
-  &nbsp;
-  <!-- prisma orm logo -->
-  <a href="https://www.prisma.io/">
-    <img
-      src="https://skillicons.dev/icons?i=prisma"
-      alt="primsa"
-      title="Prisma"
-  /></a>
-  &nbsp;
-  <!-- sequelize logo -->
-  <a href="https://sequelize.org/">
-    <img
-      src="https://skillicons.dev/icons?i=sequelize"
-      alt="sequelize"
-      title="Sequelize"
-  /></a>
-  &nbsp;
-  <!-- socket.io logo -->
-  <a href="https://socket.io/">
-    <img
-      src="./images/socketIo.png"
-      width="50px"
-      alt="socketio"
-      title="SocketIO"
-  /></a>
-  &nbsp;
-  <!-- webRTC logo -->
-  <a href="https://webrtc.org/">
-    <img src="./images/webrtc.png" width="50px" alt="webrtc" title="WebRTC"
-  /></a>
-  &nbsp;
-  <!-- python logo -->
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" alt="redux" title="Python"
-  /></a>
-  &nbsp;
-  <!-- django logo -->
-  <a href="https://www.djangoproject.com/">
-    <img
-      src="https://skillicons.dev/icons?i=django"
-      alt="django"
-      title="Django"
-  /></a>
-  &nbsp;
-  <!-- flask logo -->
-  <a href="https://www.docker.com/">
-    <img
-      src="https://skillicons.dev/icons?i=docker"
-      alt="docker"
-      title="Docker"
-  /></a>
-  &nbsp;
-  <!-- docker logo  -->
-  <a href="https://wordpress.org">
-    <img
-      src="https://skillicons.dev/icons?i=wordpress"
-      alt="wordpress"
-      title="WordPress"
-  /></a>
-  &nbsp;
-  <!-- elementor logo  -->
-  <a href="https://elementor.com/">
-    <img
-      src="./images/elementor.png"
-      width="50px"
-      alt="elementor"
-      title="Elementor"
-  /></a>
-  &nbsp;
+  <b>Full Stack & AI Developer | Next.js • React • Node.js • Python • RAG | Cloud Architect</b>
+  <br>
+  <a href="https://www.ntnu.edu/">MSc AI & Software Engineering (NTNU)</a> — 
+  <a href="https://www.uio.no/english/">BSc Computer Science (Univ. of Oslo)</a>
 </p>
 
-## GitHub Stats 📊
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-rejoyan-islam&theme=aura" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-rejoyan-islam&theme=nord_bright" />
-  <img alt="Md Rejoyan Islam contribution graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-rejoyan-islam&theme=nord_bright" />
-</picture>
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=md-rejoyan-islam&show_icons=true&locale=en&layout=compact&theme=aura&border_color=15141b" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=md-rejoyan-islam&show_icons=true&locale=en&layout=compact&bg_color=eceff4&border_color=eceff4" />
-  <img alt="Md Rejoyan Islam contribution graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-rejoyan-islam&show_icons=true&locale=en&layout=compact&bg_color=eceff4&border_color=eceff4" />
-</picture>
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=md-rejoyan-islam&show_icons=true&locale=en&theme=aura&border_color=15141b" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=md-rejoyan-islam&show_icons=true&locale=en&bg_color=eceff4&border_color=eceff4" />
-  <img alt="rejoyan_islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=md-rejoyan-islam&show_icons=true&locale=en&theme=aura&border_color=15141b&bg_color=eceff4&border_color=eceff4" />
-</picture>
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=md-rejoyan-islam&theme=aura&border=15141b" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=md-rejoyan-islam&background=eceff4&border=eceff4" />
-  <img alt="rejoyan_islam's Stats" src="https://github-readme-stats.vercel.app/api?username=md-rejoyan-islam&show_icons=true&locale=en&theme=aura&border_color=15141b&bg_color=eceff4&border_color=eceff4" />
-</picture>
-
-## Contribution <img alt="Snake Image" height="40px" src="./images/snake.gif" width="40px">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/md-rejoyan-islam/md-rejoyan-islam/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/md-rejoyan-islam/md-rejoyan-islam/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-## Where to find me 🌐
-
-<p align="left">
-
-<a href="https://www.facebook.com/md.rej0yan.islam"><img src="https://img.shields.io/badge/facebook-0866ff?style=flat-square&logo=facebook&logoColor=white"    height="25px" alt="facebook" title="Facebook"></a> &nbsp;
-<a href="https://www.linkedin.com/in/md-rejoyan-islam/"><img src="https://img.shields.io/badge/linkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white"   height="25px" alt="linkedIn" title="LinkedIn"></a> &nbsp;
-<a href="https://twitter.com/md_rejoyanislam"><img src="https://img.shields.io/badge/twitter-1d9bf0?style=flat-square&logo=twitter&logoColor=white" style="padding-right: 10px;display:inline;" height="25px" alt="twitter" title="Twitter"></a> &nbsp;
-<a href="https://join.skype.com/invite/puxgViZihWnh"><img src="https://img.shields.io/badge/skype-0098d5?style=flat-square&logo=skype&logoColor=white" style="padding-right: 10px;display:inline;"  height="25px" alt="skype" title="Skype"></a> &nbsp;
-<a href="https://discord.com/users/788296371991478312"><img src="https://img.shields.io/badge/discord-5562ea?style=flat-square&logo=discord&logoColor=white" style="padding-right: 10px;display:inline;"  height="25px" alt="skype" title="Discord"> </a> &nbsp;
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b993d6,100:8ca6db&height=150&section=header&text=Full%20Stack%20AI%20Developer&fontSize=35&fontColor=ffffff" alt="header"/>
 </p>
 
-## Git profile Trophies :trophy:
+## 👨‍💻 About Me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam&theme=radical&margin-w=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam&margin-w=5" />
-  <img alt="Rejoyan Islam Github Trophies" src="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam&margin-w=5" />
-</picture>
+Since **2018**, I’ve been building at the intersection of <b>artificial intelligence, web engineering</b>, and <b>cloud-native systems</b>.  
+I blend deep academic foundation with hands-on expertise to transform complex concepts into <em>measurable, scalable digital products</em>.
 
-## Let's Collaborate 🚀
+- 🛠 **AI-driven platforms** with RAG, NLP, chatbots, and automation
+- 🌐 **Modern web apps** with Next.js, React, Node.js, Supabase, Python
+- ☁️ **Cloud-first architecture** on AWS, Vercel, Serverless, PostgreSQL
 
-If you have an interesting project or just want to connect, feel free to reach out!
+I believe in **clarity, scalability, and long-term impact — not just code, but results.**
 
-📧 Email: SolveEve60@gmail.com
+---
 
+## 🚩 Career Highlights
+
+- 🎓 Master’s in AI & Software Engineering (<b>NTNU, Norway</b>)
+- 🎓 Bachelor’s in Computer Science (<b>University of Oslo</b>)
+- 👨‍💻 <b>7+ years</b> professional experience (since 2018)
+- 🧠 Delivered smart assistants, RAG search, knowledge bases, and business intelligence AI
+- 🛡️ Designed scalable, secure platforms serving thousands of users
+- 🎨 Advocate of elegant design, clean automation, and delightful UX
+
+---
+
+## ⚡️ My Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,express,aws,postgresql,supabase,docker,vercel,figma" />
+</p>
+
+<table>
+  <tr>
+    <td><b>Core Languages</b></td>
+    <td>Python • JS/TS • SQL • Bash</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>Next.js • React • TypeScript • Tailwind CSS • SSR/SSG</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Node.js • Express • FastAPI • Supabase</td>
+  </tr>
+  <tr>
+    <td><b>AI/ML</b></td>
+    <td>Hugging Face • OpenAI • Transformers • LangChain • RAG</td>
+  </tr>
+  <tr>
+    <td><b>Cloud / Data</b></td>
+    <td>AWS • Vercel • PostgreSQL • MongoDB • Serverless</td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>Docker • GitHub Actions • CI/CD</td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Featured Projects
+
+- **AI Assistant & RAG Platform:**  
+  Multi-source document search, chatbots, context-aware Q&A  
+  <kbd>Next.js</kbd> <kbd>Python</kbd> <kbd>RAG</kbd> <kbd>OpenAI</kbd>
+
+- **Modern Knowledge Base:**  
+  Real-time search and semantic understanding over enterprise content  
+  <kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Supabase</kbd> <kbd>LangChain</kbd>
+
+- **Cloud-Native Analytics Dashboard:**  
+  End-to-end data pipelines, dashboards, and predictive modeling  
+  <kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>PostgreSQL</kbd> <kbd>AWS</kbd>
+
+---
+
+## 💡 My Mission
+
+Transform **AI research into usable, beautiful, and reliable products**  
+Build the bridges between machine intelligence and real-world user needs  
+Deliver solutions that are **secure, cost-effective, and built to scale**
+
+---
+
+## 🌱 Currently
+
+- Exploring retrieval-augmented generation (RAG) and multi-modal AI
+- Building rapid prototypes & MVPs for SaaS and startups
+- Mentoring and collaborating with innovators around the world
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/SolveEve"><img src="https://img.shields.io/badge/GitHub-%40SolveEve-black?style=for-the-badge&logo=github"></a>
+  <!-- <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Send_Email-green?style=for-the-badge&logo=gmail"></a> -->
+  <!-- <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a> -->
+  <!-- Add your links above -->
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b993d6,100:8ca6db&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <b>“Building future-ready AI — human-centered, secure, and impactful.”</b>
+</p>
