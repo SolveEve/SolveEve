@@ -266,7 +266,25 @@ I believe in **clarity, scalability, and long-term impact — not just code, but
 </table>
 
 ---
+## 🏅 Badges & Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3673a8?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3572A5?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs">
+  <img src="https://img.shields.io/badge/React-08d9d6?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-ecb22e?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-333fff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HuggingFace-faa02b?style=for-the-badge&logo=huggingface&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-68a063?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white">
+</p>
 ## 🏆 Featured Projects
 
 - **AI Assistant & RAG Platform:**  
@@ -298,6 +316,15 @@ Deliver solutions that are **secure, cost-effective, and built to scale**
 - Mentoring and collaborating with innovators around the world
 
 ---
+## 📊 Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SolveEve&show_icons=true&theme=radical&hide_rank=false&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SolveEve&theme=radical&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SolveEve&theme=react-dark&area=true&hide_border=true"/>
+</p>
 ## Git profile Trophies :trophy:
 
 <picture>
