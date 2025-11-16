@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi, I'm Rejoyan Islam 👋</h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=200&random=false&lines=Quick%20Learner;Friendly;Dedicated&width=160"></a>
-</p>
+</p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-rejoyan-islam" &label=Profile%20views&color=0e75b6&style=flat" alt="Solve Eve" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-rejoyan-islam" &label=Profile%20views&color=0e75b6&style=flat" alt="Solve Eve" /> </p> -->
 
 ##
 
