@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ##
 
-👋 Hello there! I'm Rejoyan Islam, a passionate full-stack web developer with a diverse skill set that spans across various technologies. With a strong foundation in JavaScript and Python, I bring a wealth of experience in building robust and scalable web applications.
+👋 Hello there! I'm passionate full-stack & AI powered web developer with a diverse skill set that spans across various technologies. With a strong foundation in JavaScript and Python, I bring a wealth of experience in building robust and scalable web applications.
 
 🌐 As a seasoned developer, I have expertise in both SQL and NoSQL databases, ensuring that I can design efficient and effective data solutions for any project. Whether it's crafting intricate database queries or optimizing data storage, I thrive in creating seamless backend experiences.
 
@@ -284,5 +284,5 @@ Here are some ideas to get you started:
 
 If you have an interesting project or just want to connect, feel free to reach out!
 
-📧 Email: rejoyanislam0014@gmail.com
+📧 Email: SolveEve60@gmail.com
 
