@@ -109,6 +109,13 @@ Deliver solutions that are **secure, cost-effective, and built to scale**
 - Mentoring and collaborating with innovators around the world
 
 ---
+## Git profile Trophies :trophy:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam&theme=radical&margin-w=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam&margin-w=5" />
+  <img alt="Rejoyan Islam Github Trophies" src="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam&margin-w=5" />
+</picture>
 
 ## 🤝 Connect with Me
 
